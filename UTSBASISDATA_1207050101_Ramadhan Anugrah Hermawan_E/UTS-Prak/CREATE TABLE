@@ -1,0 +1,28 @@
+-- sql
+
+CREATE TABLE users ( 
+id int AUTO INCREMENTS PRIMARY KEY,
+username varchar(100) )
+
+-- sql
+
+CREATE TABLE kategori( id int AUTO INCREMENT PRIMARY KEY, 
+nama varchar(100) )
+
+--sql
+
+CREATE TABLE produk(
+id int AUTO INCREMENT PRIMARY KEY, 
+kategori_id int, 
+nama varchar(225), 
+
+harga double, 
+foto varchar(255) null, 
+detail text,
+ketersediaan_stok enum('habis', 'tersedia') DEFAULT 'tersedia', 
+INDEX (nama), 
+CONSTRAINT kategori_produk
+FOREIGN KEY (kategori_id) REFERENCES kategori (id)
+ON DELETE RESTRICT 
+
+)
