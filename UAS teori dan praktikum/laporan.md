@@ -145,6 +145,12 @@
 <img src="db put.png">
 <img src="delete null.png">
 
+# LINK DEMO VIDIO DAN LINK PROJECT APLIKASI & WEB SERVICE
+
+https://drive.google.com/drive/folders/1VAGu7PBqmC8dte78GAWAWM1YER4TWoyj
+
+https://youtu.be/GpHz8TC5Q6k
+
 
 # CLO 1
 
