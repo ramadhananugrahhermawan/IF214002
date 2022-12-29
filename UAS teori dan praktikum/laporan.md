@@ -29,7 +29,7 @@
  #### Dibawah ini adalah tampilan menu penjualan cashier
 <img src="./cashier/menu penjualan.png">
 
- #### Dibawah ini adalah tampilan menu setalah memilih produk 
+ #### Dibawah ini adalah tampilan menu setelah memilih produk 
 <img src="./cashier/menu setelah ada produk.png">
 
  #### Dibawah ini adalah tampilan menu setelah diedit jumlah produk
@@ -120,7 +120,7 @@
 <img src="1.png">
 
 ### Dibawah ini adalah  gambar percobaan dimana data yang dimasukan kosong akan diberi peringatan
-<img src="post .png">
+<img src="Post .png">
 
 ### Dibawah ini adalah  gambar dimana telah berhasil memasukan data ke dalam database di gambar (1 - 2) dan gambar (3-4) database yang telah dimasukan datanya dari postman
 
