@@ -27,7 +27,7 @@
 <img src="./cashier/menu cashier.png">
  
  #### Dibawah ini adalah tampilan menu penjualan cashier
-<img src="/cashier/menu penjualan.png">
+<img src="./cashier/menu penjualan.png">
 
  #### Dibawah ini adalah tampilan menu setalah memilih produk 
 <img src="./cashier/menu setelah ada produk.png">
