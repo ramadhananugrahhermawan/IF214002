@@ -120,7 +120,7 @@
 <img src="1.png">
 
 ### Dibawah ini adalah  gambar percobaan dimana data yang dimasukan kosong akan diberi peringatan
-<img src=" post.png">
+<img src="post .png">
 
 ### Dibawah ini adalah  gambar dimana telah berhasil memasukan data ke dalam database di gambar (1 - 2) dan gambar (3-4) database yang telah dimasukan datanya dari postman
 
